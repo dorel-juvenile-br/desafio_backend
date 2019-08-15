@@ -12,7 +12,9 @@ O objetivo do desafio é desenvolver uma loja simples com as seguintes funcional
 - Finalização de compra (O sistema deve gerar um pedido de compra simples)
 
 Além disso, o sistema deve ser publicado no Heroku ou qualquer outra plataforma da sua escolha.
+
 O sistema deve ser desenvolvido utilizando o framework Ruby on Rails
+
 Para cadastrar os produtos, você deve importar o arquivo `products.yml` para o banco de dados.
 
 Outras funcionalidades que podem ser agregadas e consideradas como diferenciais são:

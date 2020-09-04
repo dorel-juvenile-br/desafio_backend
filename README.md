@@ -5,8 +5,6 @@ O objetivo é desenvolver uma loja simples com as seguintes funcionalidades:
 - Vitrine de produtos (listagem)
 - Carrinho de compras
 - Cupom de desconto no carrinho de compras
-- Checkout (não é necessário integrar nenhuma forma de pagamento)
-- Finalização de compra (o sistema deve gerar um pedido de compra simples)
 
 Além disso, o sistema deve ser publicado no Heroku ou qualquer outra plataforma da sua escolha.
 

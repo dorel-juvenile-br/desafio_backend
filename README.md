@@ -1,9 +1,5 @@
 # Desafio Backend Dorel Juvenile
 
-Na Dorel Juvenile valorizamos nosso time e cultivamos profissionais dinâmicos e criativos que estejam sempre abertos a novos desafios, aprendizados e trocas de experiências. A chegada de novos colegas nesse time é sempre um momento muito especial para todos e por isto, precisamos conhece-lo melhor, entender os conhecimentos que possui e como aproveita-los da melhor forma possível, em benefício da realização do profissional, dos objetivos da empresa e da harmonia da equipe.
-
-Estamos contentes de lhe oferecer este desafio!
-
 O objetivo é desenvolver uma loja simples com as seguintes funcionalidades:
 
 - Vitrine de produtos (listagem)

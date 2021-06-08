@@ -31,9 +31,6 @@
     <p>Centro de atividades completo, com funções de balanço e andador. Assento giratório 360º removível e lavável, bandeja removível com brinquedos, luzes e sons da natureza.</p>
     <p>Funções de balanço, andador e centro de entretenimento com 3 posições de altura e assento giratório 360º removível e lavável. Bandeja removível com brinquedos, luzes e sons da natureza.</p>
     <p>Possui exclusivo sistema anti-quedas que evita acidentes em escadas e pisos irregulares, aprovado pelo INMETRO conforme a norma ABNT NBR 16.311 para crianças entre cerca de 6 meses até 12kg.</p>
-  specs:
-    - name: "Tipo"
-      desc: "Centro de Atividades"
 
 - name: MiloFix
   brand: 'Maxi-Cosi'
